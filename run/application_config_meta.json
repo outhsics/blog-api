@@ -1,0 +1,280 @@
+{
+  "keys": "/Users/user/zfblog/201812blog-api/config/config.default.js",
+  "middleware": "/Users/user/zfblog/201812blog-api/config/config.default.js",
+  "mongoose": {
+    "client": {
+      "url": "/Users/user/zfblog/201812blog-api/config/config.default.js"
+    },
+    "url": "/Users/user/zfblog/201812blog-api/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
+    "options": "/Users/user/zfblog/201812blog-api/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
+    "loadModel": "/Users/user/zfblog/201812blog-api/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
+    "app": "/Users/user/zfblog/201812blog-api/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
+    "agent": "/Users/user/zfblog/201812blog-api/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js"
+  },
+  "security": {
+    "csrf": "/Users/user/zfblog/201812blog-api/config/config.default.js",
+    "domainWhiteList": "/Users/user/zfblog/201812blog-api/config/config.default.js",
+    "protocolWhiteList": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.local.js",
+      "maxAge": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "policy": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "checkAddress": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    }
+  },
+  "cors": {
+    "credentials": "/Users/user/zfblog/201812blog-api/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/user/zfblog/201812blog-api/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/user/zfblog/201812blog-api/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/user/zfblog/201812blog-api/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/user/zfblog/201812blog-api/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/user/zfblog/201812blog-api/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/user/zfblog/201812blog-api/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/user/zfblog/201812blog-api/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/user/zfblog/201812blog-api/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/user/zfblog/201812blog-api/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/user/zfblog/201812blog-api/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/user/zfblog/201812blog-api/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/user/zfblog/201812blog-api/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "dirs": "/Users/user/zfblog/201812blog-api/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "queryField": "/Users/user/zfblog/201812blog-api/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/user/zfblog/201812blog-api/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/user/zfblog/201812blog-api/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/user/zfblog/201812blog-api/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/user/zfblog/201812blog-api/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/Users/user/zfblog/201812blog-api/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "files": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/user/zfblog/201812blog-api/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/user/zfblog/201812blog-api/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/user/zfblog/201812blog-api/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "fastReady": "/Users/user/zfblog/201812blog-api/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/user/zfblog/201812blog-api/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/user/zfblog/201812blog-api/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/user/zfblog/201812blog-api/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js",
+      "file": "/Users/user/zfblog/201812blog-api/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/user/zfblog/201812blog-api/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/user/zfblog/201812blog-api/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/user/zfblog/201812blog-api/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/user/zfblog/201812blog-api/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/user/zfblog/201812blog-api/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/user/zfblog/201812blog-api/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/user/zfblog/201812blog-api/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/user/zfblog/201812blog-api/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dir": "/Users/user/zfblog/201812blog-api/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dynamic": "/Users/user/zfblog/201812blog-api/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "preload": "/Users/user/zfblog/201812blog-api/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "buffer": "/Users/user/zfblog/201812blog-api/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "maxFiles": "/Users/user/zfblog/201812blog-api/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/user/zfblog/201812blog-api/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "cache": "/Users/user/zfblog/201812blog-api/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/user/zfblog/201812blog-api/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/user/zfblog/201812blog-api/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "mapping": "/Users/user/zfblog/201812blog-api/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+  },
+  "env": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "name": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "proxy": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "version": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "description": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "private": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "egg-cors": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "egg-mongoose": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "egg-scripts": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "autod-egg": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "egg-bin": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "egg-ci": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "egg-mock": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "eslint": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "eslint-config-egg": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "stop": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "dev": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "debug": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "test": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "test-local": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "cov": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "lint": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "ci": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "autod": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "url": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "author": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "license": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "HOME": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "rundir": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "notFound": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "sitefile": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "middlewares": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "httpClient": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "encoding": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "formLimit": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "strict": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "depth": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "encoding": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "env": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "level": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "consoleLevel": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "outputJSON": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "buffer": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "appLogName": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "coreLogName": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "agentLogName": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "errorLogName": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "maxSockets": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "maxSockets": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "logging": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "port": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+      "hostname": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/user/zfblog/201812blog-api/node_modules/_egg@2.9.0@egg/config/config.default.js"
+}
